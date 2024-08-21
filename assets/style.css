@@ -352,6 +352,10 @@ main {
   justify-content: center;
 }
 
+.copyright {
+  color: var(--grayish-blue);
+}
+
 @media screen and (min-width: 750px) {
   .hero-section-mobile {
     display: none;
